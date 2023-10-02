@@ -1,0 +1,14 @@
+modem.img
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+recovery.img
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+system/system/data-app/MIBrowserGlobal/MIBrowserGlobal.apk
+system/system/data-app/Opera/Opera.apk
+boot.img
+vendor/camera/mimoji/model2.zip
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
